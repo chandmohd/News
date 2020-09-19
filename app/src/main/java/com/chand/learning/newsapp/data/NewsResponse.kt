@@ -2,6 +2,7 @@ package com.chand.learning.newsapp.data
 
 
 import com.google.gson.annotations.SerializedName
+import java.io.Serializable
 
 data class NewsResponse(
     @SerializedName("articles")
@@ -29,11 +30,11 @@ data class Article(
     val url: String = "",
     @SerializedName("urlToImage")
     val urlToImage: String? = ""
-)
+):Serializable
 
 data class Source(
     @SerializedName("id")
     val id: String,
     @SerializedName("name")
     val name: String = ""
-)
+):Serializable

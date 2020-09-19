@@ -18,7 +18,7 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="fontFamily">@font/roboto_slab</item>
-        <item name="android:textColor">@color/light_gray</item>
+        <item name="android:textColor">@color/text_title_color</item>
         <item name="android:textSize">@dimen/text_size_normal</item>
     </style>
 
@@ -34,13 +34,14 @@
         <item name="android:textSize">@dimen/text_size_XXlarge</item>
     </style>
 
-    <style name="TextStyleRobotoSlabRegular.Medium">
+    <style name="TextStyleRobotoSlabRegular.Medium" parent="TextStyleRobotoSlabRegular.LightGray">
         <item name="android:textSize">@dimen/text_size_medium</item>
     </style>
 
     <style name="TextStyleRobotoSlabRegular.LightGray">
         <item name="android:textColor">@color/light_gray</item>
     </style>
+
   <style name="TextStyleRobotoSlabRegular.Gray">
         <item name="android:textColor">@color/gray</item>
     </style>

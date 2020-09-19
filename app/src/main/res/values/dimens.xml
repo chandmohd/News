@@ -9,4 +9,5 @@
     <dimen name="text_size_large">20sp</dimen>
     <dimen name="text_size_XXlarge">29sp</dimen>
     <dimen name="normal_padding">8dp</dimen>
+    <dimen name="image_hight_width">42dp</dimen>
 </resources>

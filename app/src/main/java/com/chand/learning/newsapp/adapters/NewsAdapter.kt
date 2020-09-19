@@ -17,12 +17,15 @@
 package com.chand.learning.newsapp.adapters
 
 import android.view.LayoutInflater
+import android.view.View
 import android.view.ViewGroup
+import androidx.navigation.findNavController
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.chand.learning.newsapp.data.Article
 import com.chand.learning.newsapp.databinding.ItemNewsBinding
+import com.chand.learning.newsapp.fragments.NewsListFragmentDirections
 
 /**
  * Adapter for the [RecyclerView] in [NewsFragmentList].
@@ -45,24 +48,21 @@ class NewsAdapter : ListAdapter<Article, RecyclerView.ViewHolder>(NewsDiffCallba
     class NewsViewHolder(
         private val binding: ItemNewsBinding
     ) : RecyclerView.ViewHolder(binding.root) {
-//        init {
-//            binding.setClickListener {
-//                binding.plant?.let { plant ->
-//                    navigateToPlant(plant, it)
-//                }
-//            }
-//        }
+        init {
+            binding.setClickListener {
+                binding.item?.let { news ->
+                    navigateToPlant(news, it)
+                }
+            }
+        }
 
-//        private fun navigateToPlant(
-//            plant: Article,
-//            view: View
-//        ) {
-//            val direction =
-//                HomeViewPagerFragmentDirections.actionViewPagerFragmentToPlantDetailFragment(
-//                    plant.plantId
-//                )
-//            view.findNavController().navigate(direction)
-//        }
+        private fun navigateToPlant(
+            article: Article,
+            view: View
+        ) {
+            val direction = NewsListFragmentDirections.actionNewsListFragmentToNewsDetailsFragment(article)
+            view.findNavController().navigate(direction)
+        }
 
         fun bind(item: Article) {
             binding.apply {
@@ -72,17 +72,6 @@ class NewsAdapter : ListAdapter<Article, RecyclerView.ViewHolder>(NewsDiffCallba
         }
     }
 }
-
-//private class PlantDiffCallback : DiffUtil.ItemCallback<Plant>() {
-//
-//    override fun areItemsTheSame(oldItem: Plant, newItem: Plant): Boolean {
-//        return oldItem.plantId == newItem.plantId
-//    }
-//
-//    override fun areContentsTheSame(oldItem: Plant, newItem: Plant): Boolean {
-//        return oldItem == newItem
-//    }
-//}
 
 private class NewsDiffCallback : DiffUtil.ItemCallback<Article>() {
 

@@ -18,5 +18,12 @@
         android:id="@+id/newsDetailsFragment"
         android:name="com.chand.learning.newsapp.fragments.NewsDetailsFragment"
         android:label="news_details_fragment"
-        tools:layout="@layout/news_details_fragment" />
+        tools:layout="@layout/news_details_fragment" >
+        <action
+            android:id="@+id/action_newsDetailsFragment_to_newsListFragment"
+            app:destination="@id/newsListFragment" />
+        <argument
+            android:name="article"
+            app:argType="com.chand.learning.newsapp.data.Article" />
+    </fragment>
 </navigation>
