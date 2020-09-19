@@ -6,4 +6,6 @@
     <color name="primaryTextColor">#ffffff</color>
     <color name="background">#464646</color>
     <color name="light_gray">#bababa</color>
+    <color name="text_title_color">#f2f2f2</color>
+    <color name="gray">#808080</color>
 </resources>
