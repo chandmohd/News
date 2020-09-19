@@ -7,6 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.chand.learning.newsapp.R
+import com.chand.learning.newsapp.viewModels.NewsDetailsViewModel
 
 class NewsDetailsFragment : Fragment() {
 

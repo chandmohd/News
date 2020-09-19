@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
 
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/cardView"
@@ -11,6 +12,38 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+        
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/news_image"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_title"
+            style="@style/TextStyleRobotoSlabRegular.XXLarge"
+            app:layout_constraintTop_toBottomOf="@id/news_image"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="Parliament LIVE: Farm Bill Aftershocks Likely"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_source_name"
+            style="@style/TextStyleRobotoSlabRegular.Gray"
+            app:layout_constraintTop_toBottomOf="@id/tv_title"
+            android:layout_marginTop="@dimen/margin_large"
+            android:layout_marginBottom="@dimen/margin_normal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="News 18"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_date"
+            style="@style/TextStyleRobotoSlabRegular.Gray"
+            app:layout_constraintTop_toTopOf="@id/tv_source_name"
+            app:layout_constraintBottom_toBottomOf="@id/tv_source_name"
+            app:layout_constraintStart_toEndOf="@id/tv_source_name"
+            android:layout_marginStart="@dimen/margin_normal"
+            tools:text="2019-09-24"/>
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

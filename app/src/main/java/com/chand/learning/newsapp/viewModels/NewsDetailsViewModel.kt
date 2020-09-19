@@ -1,4 +1,4 @@
-package com.chand.learning.newsapp.fragments
+package com.chand.learning.newsapp.viewModels
 
 import androidx.lifecycle.ViewModel
 
