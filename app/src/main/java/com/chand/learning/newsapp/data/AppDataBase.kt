@@ -36,7 +36,7 @@ abstract class AppDataBase : RoomDatabase() {
                 override fun onCreate(db: SupportSQLiteDatabase) {
                     super.onCreate(db)
                     CoroutineScope(Dispatchers.IO).launch {
-                        JsonData.newsResponse?.let {
+                        JsonData.newsResponse.let {
                             getInstance(context).getArticleDao().insertAll(
                                 it
                             )

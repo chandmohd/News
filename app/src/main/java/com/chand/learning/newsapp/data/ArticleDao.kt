@@ -1,6 +1,5 @@
 package com.chand.learning.newsapp.data
 
-import androidx.lifecycle.LiveData
 import androidx.room.*
 
 @Dao
