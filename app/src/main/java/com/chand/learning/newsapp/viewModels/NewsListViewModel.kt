@@ -21,6 +21,6 @@ class NewsListViewModel(private val repository: NewsRepository) : ViewModel() {
 
     override fun onCleared() {
         super.onCleared()
-        if (::job.isInitialized)job.cancel()
+        if (::job.isInitialized) job.cancel()
     }
 }

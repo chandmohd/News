@@ -6,13 +6,14 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
+import androidx.lifecycle.Observer
 import com.chand.learning.newsapp.adapters.NewsAdapter
 import com.chand.learning.newsapp.databinding.NewsListFragmentBinding
 import com.chand.learning.newsapp.utilities.Injector
 import com.chand.learning.newsapp.viewModels.NewsListViewModel
 
 class NewsListFragment : Fragment() {
-    private val viewModel :NewsListViewModel by viewModels { Injector.getNewsFactory() }
+    private val viewModel :NewsListViewModel by viewModels { Injector.getNewsFactory(this) }
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,

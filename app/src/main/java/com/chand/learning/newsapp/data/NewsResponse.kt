@@ -1,40 +1,15 @@
 package com.chand.learning.newsapp.data
 
 
+import androidx.room.*
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable
 
+@Entity(tableName = "news")
 data class NewsResponse(
-    @SerializedName("articles")
-    val articles: List<Article>?,
-    @SerializedName("status")
-    val status: String = "",
-    @SerializedName("totalResults")
-    val totalResults: Int = 0
+    @TypeConverters(ArticlesConverter::class)
+    val articles: List<Article>?= null,
+    val status: String,
+    @PrimaryKey(autoGenerate = false)
+    var totalResults: Int
 )
-
-data class Article(
-    @SerializedName("author")
-    val author: String? = "",
-    @SerializedName("content")
-    val content: String? = "",
-    @SerializedName("description")
-    val description: String? = "",
-    @SerializedName("publishedAt")
-    val publishedAt: String = "",
-    @SerializedName("source")
-    val source: Source?,
-    @SerializedName("title")
-    val title: String = "",
-    @SerializedName("url")
-    val url: String = "",
-    @SerializedName("urlToImage")
-    val urlToImage: String? = ""
-):Serializable
-
-data class Source(
-    @SerializedName("id")
-    val id: String,
-    @SerializedName("name")
-    val name: String = ""
-):Serializable
