@@ -19,7 +19,7 @@ interface ApiService  {
     companion object{
         private const val BASE_URL = "https://newsapi.org/v2/"
 
-        fun create(): ApiService{
+        fun create(): ApiService {
             val logger = HttpLoggingInterceptor().apply { level = HttpLoggingInterceptor.Level.BODY }
             val client = OkHttpClient.Builder().addInterceptor(logger).build()
 

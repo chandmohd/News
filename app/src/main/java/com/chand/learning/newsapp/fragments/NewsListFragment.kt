@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
+import androidx.lifecycle.observe
 import com.chand.learning.newsapp.adapters.NewsAdapter
 import com.chand.learning.newsapp.databinding.NewsListFragmentBinding
 import com.chand.learning.newsapp.utilities.Injector
@@ -18,7 +19,7 @@ class NewsListFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         val binding = NewsListFragmentBinding.inflate(layoutInflater,container,false)
         context ?: return binding.root
         val adapter = NewsAdapter()
@@ -30,9 +31,9 @@ class NewsListFragment : Fragment() {
 
     private fun subscribeUi(adapter: NewsAdapter) {
         viewModel.getNewsHeadlines()
-        viewModel.news.observe(viewLifecycleOwner) { news ->
+        viewModel.news.observe(viewLifecycleOwner, Observer  { news ->
             adapter.submitList(news)
-        }
+        })
     }
 
 }
