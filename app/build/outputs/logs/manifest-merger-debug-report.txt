@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/8f2c0b1e15c07b37809f0b0e5e0d27ac/databinding-adapters-4.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/e3e313f9b956e8c1b07ada3bc32af591/databinding-runtime-4.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/5df1cd888ac05ed9f54128bf7a98c513/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3be25977373dc44a90198ca362cf172f/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3044489ad852f5d0df927b80d32dd167/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/6eaaebfe6019cc324484e5fdcca62fed/navigation-ui-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/d1376477544d3c6d630b18ac4d01d068/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/blusmart/.gradle/caches/transforms-2/files-2.1/602c732cfc53b6495a6c6e82e9c00dc3/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/139d455e8ddf1f3a327b7b16544d6c0c/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/60ecd9ae5faae060291910258f414d62/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/f101a14ad9317d4091e0cb7cbc4517c7/navigation-common-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/fc8cb2d1021c59c5805fc6dfbb75cdd4/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/b9c930205f8a3b6fb11635ea1e4853cf/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1e382a04ba64c4733ecd4732337e8dea/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/2b25feb1d820d68082a841acab62b656/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/69e6b7b5387748f8088ffb8adb48c2cb/navigation-ui-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/a623a77cd64a800f86c7e4862a9b9ffa/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/4a37109684ca1196399dae9147108765/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/df0d429b077fca1d22c06e1f89da28e9/jetified-glide-4.10.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.room:room-runtime:2.2.5] /home/blusmart/.gradle/caches/transforms-2/files-2.1/527c2ff740babce031a6bcc16abdb084/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.databinding:viewbinding:4.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/41d1cb2715ea07eefeac2bdb654b480a/jetified-viewbinding-4.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/560c82d048c7a770e9dcdd7de190334a/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/ae8d1af23001268e658a5d0d19e44481/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/68dce09b562caf9405099032fbc36cca/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/7bd66a2cf075e1fb910e19b951182d84/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/bd7297fbedbf9dc6362520bda94c131e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/0ab3f7fb2d8e0fce3a5408cde0f73d14/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1fb972b7129ed63759c7600c3fa87816/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/25b1938488e00d31a53a2bfb0b490174/navigation-fragment-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /home/blusmart/.gradle/caches/transforms-2/files-2.1/093acec8a830e8cc8434da3e3153c5d4/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3756693e12a80eeaeacb5353fd5b8eda/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/ea496b262e1f9e5675f090d931b49593/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/7765f14af24119706852c342aeb206a7/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/85f526a4c882d0824301c245a677c98c/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/582eee89417b1aad247d54bcd7843b90/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/acdf3e88da1cae87d5f39b747a73453b/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/389b7df2cf2eaeec1b014c476598e2ff/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/edf2791aefd36a97694731eb37b4a0be/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/bfe373c2aee7bb4d9b7b9bf7b5cceefc/drawerlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/e48033ed9342b5deeb9791f259295391/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/76a6640d8ad5a5cfc52e8999a4f8c150/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/b262ba604ae1ec1824753f28248c22c8/navigation-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/a92dfb261bb680cfa8d29b876eb4e10e/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/9ac9d84bbba4deda68567c5071c707ad/navigation-common-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1d99df6c0c98a0b3a2105af9114e4733/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/8d7c0fa413f1be6f8f8b249fb7f96211/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/da174919d92efbb13a7958a9386e4b6a/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/f3ae509f5ca19765ea4cbee357920da8/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3748a726610acda6f53eadcf2b8a156f/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/9ba4d79228a8daafece4329886f8596e/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3ef18bd7042bd4c0757c1d509126d250/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/888a9456661deeb42a3c81b1187174ea/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/70834097c496ab201b797a5edf5acb00/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3bb7334c370385092aa57a6ead7015f6/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/0a6b4393f85b90e9a65820454ca963ed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/53cd400be07d77a15ea69979cd054131/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/296fec318bc7b44a15ba34f05717a4ed/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/26e6b617fc5eb0f0cbb5ffed948df7c1/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/2e5fb62490fea98ea02694e82d3f23ce/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/9cf18354c9abfbfa9ac70b50668d104c/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/34eb19501f21dc2c3bf4afb42fff35ea/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/ff5ddadd1a498c9e6f2282b341409e09/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3be25977373dc44a90198ca362cf172f/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3be25977373dc44a90198ca362cf172f/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/2b25feb1d820d68082a841acab62b656/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/2b25feb1d820d68082a841acab62b656/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/a623a77cd64a800f86c7e4862a9b9ffa/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/a623a77cd64a800f86c7e4862a9b9ffa/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/df0d429b077fca1d22c06e1f89da28e9/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/df0d429b077fca1d22c06e1f89da28e9/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] /home/blusmart/.gradle/caches/transforms-2/files-2.1/527c2ff740babce031a6bcc16abdb084/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /home/blusmart/.gradle/caches/transforms-2/files-2.1/527c2ff740babce031a6bcc16abdb084/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/560c82d048c7a770e9dcdd7de190334a/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/560c82d048c7a770e9dcdd7de190334a/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.core:core:1.3.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1d99df6c0c98a0b3a2105af9114e4733/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1d99df6c0c98a0b3a2105af9114e4733/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/da174919d92efbb13a7958a9386e4b6a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/da174919d92efbb13a7958a9386e4b6a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/0a6b4393f85b90e9a65820454ca963ed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/0a6b4393f85b90e9a65820454ca963ed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1d99df6c0c98a0b3a2105af9114e4733/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:15:9-50
+	android:usesCleartextTraffic
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:14:9-44
+activity#com.chand.learning.newsapp.MainActivity
+ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/8f2c0b1e15c07b37809f0b0e5e0d27ac/databinding-adapters-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/8f2c0b1e15c07b37809f0b0e5e0d27ac/databinding-adapters-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/e3e313f9b956e8c1b07ada3bc32af591/databinding-runtime-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/e3e313f9b956e8c1b07ada3bc32af591/databinding-runtime-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/5df1cd888ac05ed9f54128bf7a98c513/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/5df1cd888ac05ed9f54128bf7a98c513/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3be25977373dc44a90198ca362cf172f/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3be25977373dc44a90198ca362cf172f/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3044489ad852f5d0df927b80d32dd167/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3044489ad852f5d0df927b80d32dd167/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/6eaaebfe6019cc324484e5fdcca62fed/navigation-ui-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/6eaaebfe6019cc324484e5fdcca62fed/navigation-ui-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/d1376477544d3c6d630b18ac4d01d068/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/d1376477544d3c6d630b18ac4d01d068/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/blusmart/.gradle/caches/transforms-2/files-2.1/602c732cfc53b6495a6c6e82e9c00dc3/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/blusmart/.gradle/caches/transforms-2/files-2.1/602c732cfc53b6495a6c6e82e9c00dc3/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/139d455e8ddf1f3a327b7b16544d6c0c/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/139d455e8ddf1f3a327b7b16544d6c0c/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/60ecd9ae5faae060291910258f414d62/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/60ecd9ae5faae060291910258f414d62/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/f101a14ad9317d4091e0cb7cbc4517c7/navigation-common-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/f101a14ad9317d4091e0cb7cbc4517c7/navigation-common-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/fc8cb2d1021c59c5805fc6dfbb75cdd4/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/fc8cb2d1021c59c5805fc6dfbb75cdd4/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/b9c930205f8a3b6fb11635ea1e4853cf/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/b9c930205f8a3b6fb11635ea1e4853cf/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1e382a04ba64c4733ecd4732337e8dea/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1e382a04ba64c4733ecd4732337e8dea/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/2b25feb1d820d68082a841acab62b656/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/2b25feb1d820d68082a841acab62b656/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/69e6b7b5387748f8088ffb8adb48c2cb/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/69e6b7b5387748f8088ffb8adb48c2cb/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/a623a77cd64a800f86c7e4862a9b9ffa/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/a623a77cd64a800f86c7e4862a9b9ffa/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/4a37109684ca1196399dae9147108765/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/4a37109684ca1196399dae9147108765/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/df0d429b077fca1d22c06e1f89da28e9/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/df0d429b077fca1d22c06e1f89da28e9/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/blusmart/.gradle/caches/transforms-2/files-2.1/527c2ff740babce031a6bcc16abdb084/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/blusmart/.gradle/caches/transforms-2/files-2.1/527c2ff740babce031a6bcc16abdb084/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:4.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/41d1cb2715ea07eefeac2bdb654b480a/jetified-viewbinding-4.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/41d1cb2715ea07eefeac2bdb654b480a/jetified-viewbinding-4.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/560c82d048c7a770e9dcdd7de190334a/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/560c82d048c7a770e9dcdd7de190334a/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/ae8d1af23001268e658a5d0d19e44481/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/ae8d1af23001268e658a5d0d19e44481/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/68dce09b562caf9405099032fbc36cca/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/68dce09b562caf9405099032fbc36cca/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/7bd66a2cf075e1fb910e19b951182d84/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/7bd66a2cf075e1fb910e19b951182d84/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/bd7297fbedbf9dc6362520bda94c131e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/bd7297fbedbf9dc6362520bda94c131e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/0ab3f7fb2d8e0fce3a5408cde0f73d14/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/0ab3f7fb2d8e0fce3a5408cde0f73d14/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1fb972b7129ed63759c7600c3fa87816/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1fb972b7129ed63759c7600c3fa87816/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/25b1938488e00d31a53a2bfb0b490174/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/25b1938488e00d31a53a2bfb0b490174/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/blusmart/.gradle/caches/transforms-2/files-2.1/093acec8a830e8cc8434da3e3153c5d4/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/blusmart/.gradle/caches/transforms-2/files-2.1/093acec8a830e8cc8434da3e3153c5d4/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3756693e12a80eeaeacb5353fd5b8eda/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3756693e12a80eeaeacb5353fd5b8eda/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/ea496b262e1f9e5675f090d931b49593/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/ea496b262e1f9e5675f090d931b49593/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/7765f14af24119706852c342aeb206a7/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/7765f14af24119706852c342aeb206a7/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/85f526a4c882d0824301c245a677c98c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/85f526a4c882d0824301c245a677c98c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/582eee89417b1aad247d54bcd7843b90/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/582eee89417b1aad247d54bcd7843b90/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/acdf3e88da1cae87d5f39b747a73453b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/acdf3e88da1cae87d5f39b747a73453b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/389b7df2cf2eaeec1b014c476598e2ff/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/389b7df2cf2eaeec1b014c476598e2ff/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/edf2791aefd36a97694731eb37b4a0be/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/edf2791aefd36a97694731eb37b4a0be/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/bfe373c2aee7bb4d9b7b9bf7b5cceefc/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/bfe373c2aee7bb4d9b7b9bf7b5cceefc/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/e48033ed9342b5deeb9791f259295391/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/e48033ed9342b5deeb9791f259295391/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/76a6640d8ad5a5cfc52e8999a4f8c150/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/76a6640d8ad5a5cfc52e8999a4f8c150/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/b262ba604ae1ec1824753f28248c22c8/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/b262ba604ae1ec1824753f28248c22c8/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/a92dfb261bb680cfa8d29b876eb4e10e/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/a92dfb261bb680cfa8d29b876eb4e10e/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/9ac9d84bbba4deda68567c5071c707ad/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/9ac9d84bbba4deda68567c5071c707ad/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1d99df6c0c98a0b3a2105af9114e4733/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/1d99df6c0c98a0b3a2105af9114e4733/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/8d7c0fa413f1be6f8f8b249fb7f96211/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/8d7c0fa413f1be6f8f8b249fb7f96211/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/da174919d92efbb13a7958a9386e4b6a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/da174919d92efbb13a7958a9386e4b6a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/f3ae509f5ca19765ea4cbee357920da8/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/f3ae509f5ca19765ea4cbee357920da8/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3748a726610acda6f53eadcf2b8a156f/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3748a726610acda6f53eadcf2b8a156f/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/9ba4d79228a8daafece4329886f8596e/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/9ba4d79228a8daafece4329886f8596e/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3ef18bd7042bd4c0757c1d509126d250/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3ef18bd7042bd4c0757c1d509126d250/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/888a9456661deeb42a3c81b1187174ea/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/888a9456661deeb42a3c81b1187174ea/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/70834097c496ab201b797a5edf5acb00/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/70834097c496ab201b797a5edf5acb00/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3bb7334c370385092aa57a6ead7015f6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/3bb7334c370385092aa57a6ead7015f6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/0a6b4393f85b90e9a65820454ca963ed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/0a6b4393f85b90e9a65820454ca963ed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/53cd400be07d77a15ea69979cd054131/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/53cd400be07d77a15ea69979cd054131/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/296fec318bc7b44a15ba34f05717a4ed/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/blusmart/.gradle/caches/transforms-2/files-2.1/296fec318bc7b44a15ba34f05717a4ed/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/26e6b617fc5eb0f0cbb5ffed948df7c1/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/26e6b617fc5eb0f0cbb5ffed948df7c1/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/2e5fb62490fea98ea02694e82d3f23ce/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/2e5fb62490fea98ea02694e82d3f23ce/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/9cf18354c9abfbfa9ac70b50668d104c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/9cf18354c9abfbfa9ac70b50668d104c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/34eb19501f21dc2c3bf4afb42fff35ea/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/34eb19501f21dc2c3bf4afb42fff35ea/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/ff5ddadd1a498c9e6f2282b341409e09/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/ff5ddadd1a498c9e6f2282b341409e09/cardview-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /home/blusmart/.gradle/caches/transforms-2/files-2.1/527c2ff740babce031a6bcc16abdb084/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/blusmart/.gradle/caches/transforms-2/files-2.1/527c2ff740babce031a6bcc16abdb084/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/blusmart/.gradle/caches/transforms-2/files-2.1/527c2ff740babce031a6bcc16abdb084/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/blusmart/.gradle/caches/transforms-2/files-2.1/527c2ff740babce031a6bcc16abdb084/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/560c82d048c7a770e9dcdd7de190334a/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/560c82d048c7a770e9dcdd7de190334a/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/560c82d048c7a770e9dcdd7de190334a/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/560c82d048c7a770e9dcdd7de190334a/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/blusmart/.gradle/caches/transforms-2/files-2.1/560c82d048c7a770e9dcdd7de190334a/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

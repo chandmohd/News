@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/blusmart/Desktop/personal/chand/project/NewsApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/news_list_fragment.xml",
+        "source": "/home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/res/layout/news_list_fragment.xml"
+    },
+    {
+        "merged": "/home/blusmart/Desktop/personal/chand/project/NewsApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/blusmart/Desktop/personal/chand/project/NewsApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/news_details_fragment.xml",
+        "source": "/home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/res/layout/news_details_fragment.xml"
+    },
+    {
+        "merged": "/home/blusmart/Desktop/personal/chand/project/NewsApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_news.xml",
+        "source": "/home/blusmart/Desktop/personal/chand/project/NewsApp/app/src/main/res/layout/item_news.xml"
+    }
+]

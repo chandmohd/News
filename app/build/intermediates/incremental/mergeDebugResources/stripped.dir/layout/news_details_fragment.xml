@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+                 
+                       
+                                                             
+           
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".fragments.NewsDetailsFragment" android:tag="layout/news_details_fragment_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/news_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:tag="binding_1"               />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/image_gradient">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/iv_back"
+                android:layout_width="@dimen/image_hight_width"
+                android:layout_height="@dimen/image_hight_width"
+                android:layout_margin="@dimen/margin_normal"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_detail_back" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_title"
+                style="@style/TextStyleRobotoSlabRegular.XXLarge"
+                android:layout_width="match_parent"
+                android:layout_marginHorizontal="@dimen/margin_large"
+                android:layout_marginBottom="64dp"
+                android:tag="binding_2"     
+                                          
+                app:layout_constraintBottom_toTopOf="@+id/tv_source_name"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:text="Parliament LIVE: Farm Bill Aftershocks Likely" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_source_name"
+                style="@style/TextStyleRobotoSlabRegular.Large"
+                android:layout_width="0dp"
+                android:layout_marginStart="@dimen/margin_medium"
+                android:layout_marginBottom="@dimen/margin_medium"
+                android:tag="binding_3"           
+                android:textColor="@color/text_title_color"
+                                                
+                app:layout_constraintBottom_toTopOf="@id/tv_description"
+                app:layout_constraintEnd_toStartOf="@+id/tv_date"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:text="News 18" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_date"
+                style="@style/TextStyleRobotoSlabRegular.Large"
+                android:layout_width="0dp"
+                android:layout_marginEnd="@dimen/margin_normal"
+                android:layout_marginBottom="@dimen/margin_normal"
+                android:gravity="end"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:tag="binding_4"           
+                android:textColor="@color/text_title_color"
+                                                
+                app:layout_constraintBottom_toTopOf="@id/tv_description"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/tv_source_name"
+                app:layout_goneMarginStart="@dimen/margin_medium"
+                tools:text="2019-09-24" />
+
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_description"
+                style="@style/TextStyleRobotoSlabRegular.Medium"
+                android:layout_width="match_parent"
+                android:layout_marginHorizontal="@dimen/margin_medium"
+                android:layout_marginBottom="@dimen/margin_normal"
+                android:tag="binding_5"           
+                                                
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:text="Parliament LIVE: Farm Bill Aftershocks Likely  msbdfjhsdfjsd sjdbfjsfsdjf jhfhjsvfjs jhvfjhsdvfj jvjhfsvduf jhsvfhsdvfjshd jhvsfjhsdvf jhvfjsdvf jhsvdfjsdvf " />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </FrameLayout>
+         
